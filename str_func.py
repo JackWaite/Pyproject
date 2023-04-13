@@ -1,5 +1,5 @@
 def capital_letters(input_string):
-    """String case conversion from input"""
+    """Преобразование первых букв в словах"""
     return input_string.upper()
 
 
